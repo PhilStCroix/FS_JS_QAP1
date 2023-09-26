@@ -1,0 +1,9 @@
+HTTP  this module is essential for creating web servers and handling HTTP requests and responses.  It allows you to build web applications, REST API’s, and HTTP servers by using the ‘http.createServer()’ method and defining request/response functions.  HTTP servers are used to handle HTTP requests, parse request data, send responses, and manage server configurations.  It is the foundation for building web applications in Node.js 
+
+ 
+
+Fs(FileSystem) module provides methods for ineteracting with the file system.  It allows you to read from and write to files, create and delete directories, and perform various file operations.  the fs module offers synchronous and asynchronous methods for file operations, making it very versatile. 
+
+ 
+
+Console module provides a way to output messages to the console, which is especially useful for debugging and logging purposes.  Developers use functions like console.log(), console.error() and console.warn() to print information to the terminal.  It’s a fundamental tool for inspecting variables, tracing rprogram execution, aned diagnosing issues in Node.js 
