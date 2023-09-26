@@ -1,0 +1,19 @@
+{
+  "name": "fs_js_qap1",
+  "version": "1.0.0",
+  "description": "Term 3 Full Stack Node.js QAP1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhilStCroix/FS_JS_QAP1.git"
+  },
+  "author": "Phil StCroix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhilStCroix/FS_JS_QAP1/issues"
+  },
+  "homepage": "https://github.com/PhilStCroix/FS_JS_QAP1#readme"
+}

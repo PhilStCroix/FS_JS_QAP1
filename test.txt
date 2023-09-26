@@ -1,0 +1,4 @@
+This is just a test file.
+It has not much in here.
+Just a few lines so we can test it.
+Ok i hope it works out well.
